@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://5l12ynda2kb"]
+
+[ext_resource type="Texture2D" uid="uid://cnhus8dc7253m" path="res://spacepixels-0.1.0/pixel_ship_yellow.png" id="1_hh7h8"]
+
+[node name="Player" type="Node2D"]
+
+[node name="PixelShipYellow" type="Sprite2D" parent="."]
+texture = ExtResource("1_hh7h8")
